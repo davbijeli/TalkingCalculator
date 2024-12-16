@@ -1,0 +1,11 @@
+C:\Users\Davor\Desktop\CS_TalkingCalculator\bin\Debug\CS_TalkingCalculator.exe.config
+C:\Users\Davor\Desktop\CS_TalkingCalculator\bin\Debug\CS_TalkingCalculator.exe
+C:\Users\Davor\Desktop\CS_TalkingCalculator\bin\Debug\CS_TalkingCalculator.pdb
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.csproj.AssemblyReference.cache
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.FrmMain.resources
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.Properties.Resources.resources
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.csproj.GenerateResource.cache
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.exe
+C:\Users\Davor\Desktop\CS_TalkingCalculator\obj\Debug\CS_TalkingCalculator.pdb
